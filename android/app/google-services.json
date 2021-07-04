@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665487210830",
+    "project_id": "tsapp-b180a",
+    "storage_bucket": "tsapp-b180a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665487210830:android:de227f13236f8c5fc7861f",
+        "android_client_info": {
+          "package_name": "com.tsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665487210830-48ar4985fasck7j7a28jot6g3iqhdrf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tsapp",
+            "certificate_hash": "2bae33e0e25a4592004123c9f562ac8014e8ae19"
+          }
+        },
+        {
+          "client_id": "665487210830-dsl1l3trs46qtjbsqjovmf1t51nelup0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJjeuWbkuMjF4XD0x4gsQHqhWdiOa5ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665487210830-dsl1l3trs46qtjbsqjovmf1t51nelup0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
